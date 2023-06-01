@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #17d3ff;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+  border-radius: 10px;
+}
+.buttons{
+  display:block;
+
+}
+
+.page-one{
+  display:block;
+}
+
+.page-two{
+  display:block
+}
+
+.page-three{
+  display:block;
+}
+
+.page-final{
+  display:block;
+  text-align:center;
+}
